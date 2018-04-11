@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-gulp-browserify-babel",
+  "version": "1.0.0",
+  "description": "[source](https://wecodetheweb.com/2015/05/22/using-react-with-es6-and-browserify/)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.1",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
